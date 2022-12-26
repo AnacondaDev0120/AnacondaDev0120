@@ -11,7 +11,7 @@
 <div class="gallery" style=" margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;">
+  width: 100%;">
   <a target="_blank" href="#">
     <img src="https://c.tenor.com/R_yNCH7xwxYAAAAC/block-chain-cryptocurrency.gif"  style="width: 100%;
   height: auto;" alt="Mountains"">
