@@ -7,18 +7,7 @@
 
 </head>
 <body>
-<div>
-<div class="gallery" style=" margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 100%;">
-  <a target="_blank" href="#">
-    <img src="https://c.tenor.com/R_yNCH7xwxYAAAAC/block-chain-cryptocurrency.gif"  style="width: 100%;
-  height: auto;" alt="Mountains"">
-  </a>
-</div>
 
-</div>
 <br/>
 <h3>I am a full-stack <b>web</b> and <b>Blockchain</b> developer.</h3>
 I am an enthusiastic and creative Web || Blockchain Developer with diverse knowledge in this field.
