@@ -17,4 +17,11 @@ I am available for:
 - Smart contract development, testing, and deployment
 - Creating web-based front ends to interact with smart contracts
 - Creating Cryptocurrencies and launching ICOs
-
+In Server side I use Amazon AWS, Microsoft Azure, Google App Engine, nGinx, Docker.
+- Backend: Node.js, PHP/Laravel, Python/Django, GoLang, Ruby.
+- Databases: MongoDB, MySQL/PostgreSQL, Redis, SQLite.
+- Frontend: React.js, Vue.js, Angular.js, Javascript.
+- Source/Version control (Git, Github, Bitbucket)
+- Project Management (Jira, Trello, BaseCamp, Asana)
+- Third Party APIs (Google Maps, Facebook, Twitter, LinkedIn, Paypal, Stripe, Bitcoin ...)
+I have an extensive experience in creating the REST APIs
