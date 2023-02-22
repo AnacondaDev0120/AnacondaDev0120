@@ -6,7 +6,7 @@
 
 <h2 align="center">Who am I? 🥇?</h2>
 <p>
-Passionated and capable developer in Nodejs and Python development. I am trying to be more excellent developer and i believe i can do everything with my hands.</P>
+Passionated and capable developer in PHP and Javascript Frontend development. I am trying to be more excellent developer and i believe i can do everything with my hands.</P>
 
 
 <h3>🏆 Github Profile Trophy</h3>
