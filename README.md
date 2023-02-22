@@ -1,6 +1,6 @@
 ### Hi everyone, I am Evil Snake 👋
 
-<p align="center">
+<p align="center" style = 'border-radius : 50%' >
 <img src="https://avatars.githubusercontent.com/u/96062458?s=48&v=4">
 </p>
 
