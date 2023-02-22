@@ -24,6 +24,7 @@ Passionated and capable developer in PHP and Javascript Frontend development. I 
 </p>
 
 ### Skills
+- ⚡ 3th party, Blockchain, web3, Smart contract
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
 - 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
