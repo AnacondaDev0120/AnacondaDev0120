@@ -14,10 +14,10 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 <img src="https://github-profile-trophy.vercel.app/?username=Anaconda&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Anaconda&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnacondaDev0120&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 <p align="center">
-  <img alt="Anaconda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anaconda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="AnacondaDev0120's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnacondaDev0120&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
@@ -72,7 +72,7 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 <!--
-**Anaconda/Anaconda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnacondaDev0120/AnacondaDev0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
