@@ -1,7 +1,7 @@
 ### Hi everyone, I am Evil Snake 👋
 
 <p align="center">
-<img style = 'border-radius : 50%'src="https://avatars.githubusercontent.com/u/96062458?s=48&v=4">
+<img src="https://avatars.githubusercontent.com/u/96062458?s=48&v=4">
 </p>
 
 <h2 align="center">Who am I? 🥇?</h2>
